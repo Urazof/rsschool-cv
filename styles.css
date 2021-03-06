@@ -1,6 +1,6 @@
 .block {
     text-align: center;
-
+    font-family: "Times New Roman";
     width: 1024px;
     position: relative;
     margin: 0 auto
@@ -11,6 +11,7 @@
     font-size: 2em;
     margin: auto;
     /*padding: 5%;*/
+
 }
 
 .photo {
@@ -25,5 +26,12 @@
     font-size: 2em;
     margin: auto;
     /*padding: 5%;*/
+    font-family: "Times New Roman";
 }
+.paragraph {
+    font-family: "Times New Roman";
+    font-size: 0.8em;
+}
+
+
 
