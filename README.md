@@ -1,0 +1,1 @@
+[Link to cv](https://urazof.github.io/rsschool-cv/cv)
