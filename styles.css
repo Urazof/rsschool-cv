@@ -1,0 +1,29 @@
+.block {
+    text-align: center;
+
+    width: 1024px;
+    position: relative;
+    margin: 0 auto
+}
+
+.firstblock {
+    text-align: left;
+    font-size: 2em;
+    margin: auto;
+    /*padding: 5%;*/
+}
+
+.photo {
+    width: 15%;
+    border-radius: 5%;
+    float: right;
+    margin-right: 10%;
+}
+
+.secondblock {
+    text-align: left;
+    font-size: 2em;
+    margin: auto;
+    /*padding: 5%;*/
+}
+
