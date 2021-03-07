@@ -1,5 +1,6 @@
 .block {
     text-align: center;
+    margin: auto;
     font-family: "Times New Roman";
     width: 1024px;
     position: relative;
