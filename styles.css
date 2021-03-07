@@ -22,7 +22,7 @@
     margin-right: 10%;
 }
 
-.secondblock {
+.mainblock {
     text-align: left;
     font-size: 2em;
     margin: auto;
@@ -30,8 +30,12 @@
     font-family: "Times New Roman";
 }
 .paragraph {
+    padding-left: 0px;
     font-family: "Times New Roman";
     font-size: 0.8em;
+}
+.address {
+    font-size: 0.95em;
 }
 
 
