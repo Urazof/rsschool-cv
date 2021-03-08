@@ -19,7 +19,7 @@
     width: 15%;
     border-radius: 5%;
     float: right;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 
 .mainblock {
@@ -34,8 +34,17 @@
     font-family: "Times New Roman";
     font-size: 0.8em;
 }
+.section{
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 0.8em;
+}
+.footer{
+    padding-left: 40px;
+}
 .address {
     font-size: 0.95em;
+    padding-left: 3px;
 }
 
 
